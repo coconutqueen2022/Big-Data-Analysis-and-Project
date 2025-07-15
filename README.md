@@ -1,3 +1,20 @@
+## Main functions of part B 🎯
+
+### 1. Data loading and basic EDA
+- Automatically load Amazon book review dataset
+- Display basic information of dataset, missing value statistics
+- Display rating distribution
+
+### 2. Sentiment analysis (VADER)
+- Use VADER sentiment analyzer to calculate composite sentiment score
+- Generate sentiment distribution visualization of 1 star vs 5 star reviews
+- Includes box plot and density distribution map
+
+### 3. Vocabulary and N-gram analysis
+- **Text preprocessing**: morphological restoration, stop word filtering, custom stop words
+- **Word cloud generation**: Generate word clouds for 1 star and 5 star reviews respectively
+- **N-gram analysis**: Extract and visualize the most common bigrams
+
 ## Main functions of Part C 🎯
 
 ### 1. Data preprocessing
