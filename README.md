@@ -35,8 +35,8 @@ Our approach follows a systematic **five-phase methodology**:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/amazon-sentiment-analysis.git
-cd amazon-sentiment-analysis
+git clone https://github.com/coconutqueen2022/Big-Data-Analysis-and-Project.git
+cd Big-Data-Analysis-and-Project
 
 # Install required packages
 pip install -r requirements.txt
