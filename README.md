@@ -23,6 +23,7 @@ This project implements a comprehensive sentiment analysis system for Amazon boo
 
 Our approach follows a systematic **five-phase methodology**:
 
+![](methodology_flowchart.png)
 
 ## 🚀 Quick Start
 
